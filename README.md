@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giannurwana19
-- 👀 I’m interested in Laravel, Vue, React
-- 🌱 I’m currently learning React
+- 👀 I’m interested in PHP & Javascript
+- 🌱 I’m currently learning Laravel, Vue, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
