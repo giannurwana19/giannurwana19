@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me send email to giannurwana19@gmail.com
 
-**_Keep Spirit & Keep Coding!_**
-
-_**Gian Nurwana**_
+> **_Keep Spirit & Keep Coding!_** - _Gian Nurwana_
 
 <!---
 giannurwana19/giannurwana19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
