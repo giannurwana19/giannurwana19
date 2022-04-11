@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Gian Nurwana!
 - 👀 I’m interested in PHP & Javascript
-- 🌱 I’m currently learning Laravel, React
+- 🌱 I’m currently learning Laravel, React, Docker, Golang...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me send email to giannurwana19@gmail.com
 
