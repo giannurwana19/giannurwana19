@@ -6,14 +6,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me send email to giannurwana19@gmail.com
 
-> **_Keep Spirit & Keep Coding!_** - _Gian Nurwana_
-
-<img src="https://github-readme-stats.vercel.app/api?username=giannurwana19&show_icons=true&hide=contribs,prs" alt="github stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giannurwana19&layout=compact&langs_count=5&hide=html,less,scss,hack,python" alt="most languages">
-
-<hr>
-
 ### My Top Languages
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
