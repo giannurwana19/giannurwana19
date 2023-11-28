@@ -1,8 +1,8 @@
 ## Welcome to My Github Repo!😎😁
 
 - 👋 Hi, I’m Gian Nurwana!
-- 👀 I’m interested in PHP & Javascript
-- 🌱 I’m currently learning Laravel, React, Docker, Golang...
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Java & Kotlin for Android...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me send email to giannurwana19@gmail.com
 
