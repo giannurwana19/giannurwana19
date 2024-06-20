@@ -1,10 +1,7 @@
 ## Welcome to My Github Repo!😎😁
 
-- 👋 Hi, I’m Gian Nurwana!
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java & Kotlin for Android...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me send email to giannurwana19@gmail.com
+- 👋 Hi, I’m Gian!
+- I'm A Programmer
 
 ### My Top Languages
 
